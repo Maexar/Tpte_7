@@ -1,0 +1,14 @@
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\bin\Debug\net8.0\ex1.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\bin\Debug\net8.0\ex1.deps.json
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\bin\Debug\net8.0\ex1.runtimeconfig.json
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\bin\Debug\net8.0\ex1.dll
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\bin\Debug\net8.0\ex1.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.AssemblyInfo.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.dll
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\refint\ex1.dll
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ex1.genruntimeconfig.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Ex1\Atividades\obj\Debug\net8.0\ref\ex1.dll
